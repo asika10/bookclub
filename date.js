@@ -1,1 +1,1 @@
-asa;lknv;sa
+document.getElementById('date').innerHTML = new Date().toDateString();
